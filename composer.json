@@ -1,21 +1,26 @@
 {
-  "name": "robofirm/devops-tool-wordpress-platform-support",
-  "description": "Robofirm DevOps Tool: WordPress Application Support",
-  "type": "library",
-  "homepage": "https://bitbucket.org/robofirm/devops-tool-wordpress-platform-support",
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "Kirk Madera",
-      "email": "kmadera@robofirm.com"
+    "name": "robofirm/devops-tool-wordpress-platform-support",
+    "description": "Robofirm DevOps Tool: WordPress Application Support",
+    "type": "library",
+    "homepage": "https://bitbucket.org/robofirm/devops-tool-wordpress-platform-support",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kirk Madera",
+            "email": "kmadera@robofirm.com"
+        }
+    ],
+    "require": {
+        "symfony/yaml": "~2.3|~3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DevopsToolWordPressPlatformSupport\\": "src/"
+        }
+    },
+    "extra": {
+        "zf": {
+            "config-provider": "DevopsToolWordpressPlatformSupport\\ConfigProvider"
+        }
     }
-  ],
-  "require": {
-    "symfony/yaml": "~2.3|~3.0"
-  },
-  "autoload": {
-    "psr-4": {
-      "DevopsToolWordPressPlatformSupport\\": "src/"
-    }
-  }
 }
