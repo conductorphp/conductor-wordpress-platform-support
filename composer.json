@@ -20,7 +20,7 @@
     },
     "extra": {
         "zf": {
-            "config-provider": "DevopsToolWordpressPlatformSupport\\ConfigProvider"
+            "config-provider": "DevopsToolWordPressPlatformSupport\\ConfigProvider"
         }
     }
 }
