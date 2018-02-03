@@ -22,7 +22,16 @@ class ConfigProvider
                     'wordpress' => $this->getPlatformConfig(),
                 ],
             ],
+            'dependencies' => $this->getDependencyConfig(),
         ];
+    }
+
+    /**
+     * @return array
+     */
+    private function getDependencyConfig(): array
+    {
+        return require(__DIR__ . '/../config/dependencies.php');
     }
 
     /**
