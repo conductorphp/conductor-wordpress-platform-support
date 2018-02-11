@@ -1,6 +1,6 @@
 <?php
 
-namespace DevopsToolWordpressPlatformSupport;
+namespace ConductorWordpressPlatformSupport;
 
 use Symfony\Component\Yaml\Yaml;
 

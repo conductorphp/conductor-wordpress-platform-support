@@ -1,9 +1,9 @@
 <?php
 
-namespace DevopsToolWordpressPlatformSupport;
+namespace ConductorWordpressPlatformSupport;
 
-use DevopsToolAppOrchestration\ApplicationConfig;
-use DevopsToolAppOrchestration\MaintenanceStrategy\MaintenanceStrategyInterface;
+use ConductorAppOrchestration\ApplicationConfig;
+use ConductorAppOrchestration\MaintenanceStrategy\MaintenanceStrategyInterface;
 use Psr\Log\LoggerAwareInterface;
 use Psr\Log\LoggerInterface;
 

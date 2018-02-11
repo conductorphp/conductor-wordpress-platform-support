@@ -1,9 +1,9 @@
 <?php
 
-namespace DevopsToolWordpressPlatformSupport;
+namespace ConductorWordpressPlatformSupport;
 
 return [
     'invokables' => [
-        \DevopsToolAppOrchestration\MaintenanceStrategy\MaintenanceStrategyInterface::class => AppMaintenanceStrategyFactory::class,
+        \ConductorAppOrchestration\MaintenanceStrategy\MaintenanceStrategyInterface::class => AppMaintenanceStrategyFactory::class,
     ]
 ];

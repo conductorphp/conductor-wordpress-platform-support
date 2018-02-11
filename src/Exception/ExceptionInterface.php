@@ -1,6 +1,6 @@
 <?php
 
-namespace DevopsToolWordpressPlatformSupport\Exception;
+namespace ConductorWordpressPlatformSupport\Exception;
 
 interface ExceptionInterface
 {
