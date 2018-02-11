@@ -3,7 +3,7 @@
 namespace ConductorWordpressPlatformSupport;
 
 return [
-    'invokables' => [
+    'factories' => [
         \ConductorAppOrchestration\MaintenanceStrategy\MaintenanceStrategyInterface::class => AppMaintenanceStrategyFactory::class,
     ]
 ];
