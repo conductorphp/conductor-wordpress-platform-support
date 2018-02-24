@@ -1,6 +1,6 @@
 {
     "name": "conductor/wordpress-platform-support",
-    "description": "Conductor: WordPress Application Support",
+    "description": "Conductor: WordPress Platform Support",
     "type": "library",
     "homepage": "https://github.com/conductorphp/conductor-wordpress-platform-support",
     "license": "Apache 2.0",
