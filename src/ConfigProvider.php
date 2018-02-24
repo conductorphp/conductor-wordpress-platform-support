@@ -2,8 +2,6 @@
 
 namespace ConductorWordpressPlatformSupport;
 
-use Symfony\Component\Yaml\Yaml;
-
 class ConfigProvider
 {
     /**
