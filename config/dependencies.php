@@ -4,6 +4,9 @@ namespace ConductorWordpressPlatformSupport;
 
 return [
     'factories' => [
-        \ConductorAppOrchestration\MaintenanceStrategy\MaintenanceStrategyInterface::class => AppMaintenanceStrategyFactory::class,
+        \ConductorAppOrchestration\Maintenance\MaintenanceStrategyInterface::class => Maintenance\AppMaintenanceStrategyFactory::class,
+    ],
+    'aliases' => [
+        \ConductorAppOrchestration\Deploy\CodeDeploymentStateInterface::class      => Deploy\CodeDeploymentState::class,
     ]
 ];
