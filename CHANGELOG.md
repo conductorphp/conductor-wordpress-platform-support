@@ -1,6 +1,9 @@
 Conductor: WordPress Platform Support Changelog
 ==============================================
 
+# 0.9.3
+- Added @core and @common_modules snapshot database and asset groups
+
 # 0.9.2
 - Fixed license per https://spdx.org/licenses/
 
