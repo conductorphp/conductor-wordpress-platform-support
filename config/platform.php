@@ -10,8 +10,6 @@ return [
             'core' => [
                 'wp_commenmeta',
                 'wp_comments',
-                'wp_users',
-                'wp_usermeta',
             ],
             'common_modules' => [],
         ],

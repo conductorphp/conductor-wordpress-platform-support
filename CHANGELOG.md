@@ -1,6 +1,9 @@
 Conductor: WordPress Platform Support Changelog
 ==============================================
 
+# 0.9.4
+- Removed user tables from snapshot exclude. These are needed for blog to render via Fishpig_Wordpress Magento module.
+
 # 0.9.3
 - Added @core and @common_modules snapshot database and asset groups
 
