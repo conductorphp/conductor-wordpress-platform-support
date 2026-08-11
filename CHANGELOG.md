@@ -1,3 +1,10 @@
+[4.1.1](https://github.com/conductorphp/conductor-wordpress-platform-support/compare/4.1.0...4.1.1) (2026-08-11)
+
+### Bug Fixes
+* to phpunit 13 (CTAP-1226) ([4a3c3c2](https://github.com/conductorphp/conductor-wordpress-platform-support/commit/4a3c3c29682391614c10c34030e6291fe04a1290))
+
+<!--- CHANGELOG SPLIT MARKER -->
+
 [4.1.0](https://github.com/conductorphp/conductor-wordpress-platform-support/compare/4.0.0...4.1.0) (2026-08-10)
 
 ### Features
