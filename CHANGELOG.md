@@ -1,3 +1,13 @@
+[6.0.0](https://github.com/conductorphp/conductor-wordpress-platform-support/compare/5.0.0...6.0.0) (2026-10-11)
+
+
+<!--- CHANGELOG SPLIT MARKER -->
+
+[5.0.0](https://github.com/conductorphp/conductor-wordpress-platform-support/compare/4.1.1...5.0.0) (2026-09-08)
+
+
+<!--- CHANGELOG SPLIT MARKER -->
+
 [4.1.1](https://github.com/conductorphp/conductor-wordpress-platform-support/compare/4.1.0...4.1.1) (2026-08-11)
 
 ### Bug Fixes
